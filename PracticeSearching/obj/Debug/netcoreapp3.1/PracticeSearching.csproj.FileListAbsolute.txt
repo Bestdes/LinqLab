@@ -1,0 +1,13 @@
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\obj\Debug\netcoreapp3.1\PracticeSearching.csprojAssemblyReference.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\obj\Debug\netcoreapp3.1\PracticeSearching.csproj.CoreCompileInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\obj\Debug\netcoreapp3.1\PracticeSearching.AssemblyInfoInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\obj\Debug\netcoreapp3.1\PracticeSearching.AssemblyInfo.cs
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\bin\Debug\netcoreapp3.1\PracticeSearching.exe
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\bin\Debug\netcoreapp3.1\PracticeSearching.deps.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\bin\Debug\netcoreapp3.1\PracticeSearching.runtimeconfig.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\bin\Debug\netcoreapp3.1\PracticeSearching.runtimeconfig.dev.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\bin\Debug\netcoreapp3.1\PracticeSearching.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\bin\Debug\netcoreapp3.1\PracticeSearching.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\obj\Debug\netcoreapp3.1\PracticeSearching.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\obj\Debug\netcoreapp3.1\PracticeSearching.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\PracticeSearching\PracticeSearching\obj\Debug\netcoreapp3.1\PracticeSearching.genruntimeconfig.cache
